@@ -26,6 +26,7 @@
     <link rel="icon" type="image/png" sizes="96x96" href="images/favicon/favicon-96x96.png"/>
     <link rel="icon" type="image/png" sizes="16x16" href="images/favicon/favicon-16x16.png"/>
     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v6.0"></script>
+    <script src="https://climateclock.world/widget-v2.js" async></script><climate-clock />
         
     <style type="text/css">
     .currently-loading {
@@ -77,7 +78,6 @@
         * /
         
     </style>
-    <script src="https://climateclock.world/widget-v2.js" async></script><climate-clock />
 </head>
 <body>
     <form method="post" action="./Home.aspx" id="Form1">
@@ -644,17 +644,21 @@
 
     <script>
       window.addEventListener("load", () => {
+        // Undo fullscreen behavior
         document.documentElement.style.position = "static";
         document.body.style.position = "static";
         document.documentElement.style.overflow = "auto";
         document.body.style.overflow = "auto";
 
+    // Normalize the widget element
         const clock = document.querySelector("climate-clock");
-        if (clock) {
-          clock.style.position = "static";
-          clock.style.inset = "auto";
-        }
+          if (clock) {
+                clock.style.position = "static";
+                clock.style.inset = "auto";
+                clock.style.width = "fit-content";
+                clock.style.height = "auto";
+          }
       });
-    </script>
+</script>
 </body>
 </html>
