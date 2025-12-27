@@ -26,7 +26,9 @@
     <link rel="icon" type="image/png" sizes="96x96" href="images/favicon/favicon-96x96.png"/>
     <link rel="icon" type="image/png" sizes="16x16" href="images/favicon/favicon-16x16.png"/>
     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v6.0"></script>
-    <script src="https://climateclock.world/widget-v2.js" async></script><climate-clock />
+    <div id="climate-clock-container">
+        <script src="https://climateclock.world/widget-v2.js" async></script><climate-clock />
+    </div>
 
     <style type="text/css">
     .currently-loading {
@@ -40,11 +42,24 @@
         background-color: rgb(0 0 0 / 41%);
         top: 0;
     }
+        
+    /* Prevent widget from hijacking layout */
+    #climate-clock-container {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      width: max-content;
+      height: max-content;
+      pointer-events: auto;
+      z-index: 10;
+    }
+
+    /* Explicitly constrain the custom element */
     climate-clock {
-        position: fixed;
-        top: 20px;
-        left: 20px;
-        z-index: -300;
+      position: relative !important;
+      display: block !important;
+      width: auto !important;
+      height: auto !important;
     }
     </style>
     <link rel="stylesheet" href="HomeCssAndStyles/css/bootstrap.min.css"/>
