@@ -40,19 +40,17 @@
         top: 0;
     }
 
-    /* Force widget to behave like normal content */
     climate-clock {
-      position: static !important;
-      display: block !important;
-      width: fit-content !important;
-      height: auto !important;
+      position: static;
+      display: block;
+      width: fit-content;
+      height: fit-content;
       margin: 24px 0;
       
     }
-
-    /* Undo layout hijacking */
+        
     html, body {
-      overflow: auto !important;
+      overflow: auto;
     }
     </style>
     
@@ -648,13 +646,11 @@
 
     <script>
       window.addEventListener("load", () => {
-    // Undo fullscreen behavior
         document.documentElement.style.position = "static";
         document.body.style.position = "static";
         document.documentElement.style.overflow = "auto";
         document.body.style.overflow = "auto";
 
-        // Normalize the widget element
         const clock = document.querySelector("climate-clock");
         if (clock) {
           clock.style.position = "static";
