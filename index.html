@@ -42,20 +42,18 @@
         
     /* Prevent widget from hijacking layout */
     #climate-clock-container {
-      position: fixed;
-      right: 20px;
-      width: max-content;
-      height: max-content;
-      pointer-events: auto;
+      position: relative;
+      margin: 40px 0;
       z-index: 10;
     }
 
     /* Explicitly constrain the custom element */
     climate-clock {
-      position: relative;
-      display: block;
+      position: static;
+      display: inline-block;
       width: auto;
       height: auto;
+      z-index: auto;
     }
     </style>
     <div id="climate-clock-container">
