@@ -1,0 +1,620 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head id="Head1">
+    <title>
+    	Home Page -  Rotary Club of Jamshedpur Steel City Jharkhand - Rotary India
+    </title>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta id="metaDescription" name="Description" content="In our Rotary club Jamshedpur Steel City Jharkhand you will find members volunteering in communities to support education and provide clean water, combat hunger, improve health and sanitation, and eradicate polio."/>
+    <meta id="MetaKeywords" name="keywords" content="Rotary club near me, Rotary Club Jamshedpur Steel City Jharkhand, Rotary Club of Jamshedpur Steel City Jharkhand, Rotary Club In Jamshedpur"/>
+    <meta name="keywords" content="Rotary Club Thane Hills, Rotary Club of Thane Hills, Rotary Clubs In Thane (West), RC Thane Hills, Rotary club near me."/>
+    <h1 id="header_tag" style="display: none">Rotary Club of Jamshedpur Steel City Jharkhand - Rotary India</h1>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+    <link href="css/baguetteBox.min.css" rel="stylesheet" type="text/css"/>
+    <link rel="apple-touch-icon" sizes="60x60" href="images/favicon/apple-icon-60x60.png"/>
+    <link rel="apple-touch-icon" sizes="72x72" href="images/favicon/apple-icon-72x72.png"/>
+    <link rel="apple-touch-icon" sizes="76x76" href="images/favicon/apple-icon-76x76.png"/>
+    <link rel="apple-touch-icon" sizes="114x114" href="images/favicon/apple-icon-114x114.png"/>
+    <link rel="apple-touch-icon" sizes="120x120" href="images/favicon/apple-icon-120x120.png"/>
+    <link rel="apple-touch-icon" sizes="144x144" href="images/favicon/apple-icon-144x144.png"/>
+    <link rel="apple-touch-icon" sizes="152x152" href="images/favicon/apple-icon-152x152.png"/>
+    <link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-icon-180x180.png"/>
+    <link rel="icon" type="image/png" sizes="192x192" href="images/favicon/android-icon-192x192.png"/>
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon/favicon-32x32.png"/>
+    <link rel="icon" type="image/png" sizes="96x96" href="images/favicon/favicon-96x96.png"/>
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon/favicon-16x16.png"/>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v6.0"></script>
+
+    <style type="text/css">
+    .currently-loading {
+        background-image: url(images/rolling.gif);
+        background-repeat: no-repeat;
+        background-position: center center;
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        z-index: 10;
+        background-color: rgb(0 0 0 / 41%);
+        top: 0;
+    }
+    </style>
+    <link rel="stylesheet" href="HomeCssAndStyles/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="HomeCssAndStyles/css/bootstrap-styles.css?v=1.0"/>
+    <link rel="stylesheet" href="HomeCssAndStyles/css/owl.carousel.new.css"/>
+    <link rel="stylesheet" href="HomeCssAndStyles/css/club-theme-one.css?v=1"/>
+    <link rel="stylesheet" href="HomeCssAndStyles/css/footer.css?v=2.8"/>
+    <script type="text/javascript" src="HomeCssAndStyles/js/jquery.min.js"></script>
+    <style type="text/css">
+        /* 
+        <![CDATA[ */
+        	#Menu1 img.icon { border-style:none;vertical-align:middle; }
+        	#Menu1 img.separator { border-style:none;display:block; }
+        	#Menu1 img.horizontal-separator { border-style:none;vertical-align:middle; }
+        	#Menu1 ul { list-style:none;margin:0;padding:0;width:auto; }
+        	#Menu1 ul.dynamic { z-index:1; }
+        	#Menu1 a { text-decoration:none;white-space:nowrap;display:block; }
+        	#Menu1 a.static { padding-left:0.15em;padding-right:0.15em; }
+        	#Menu1 a.popout { background-image:url("/WebResource.axd?d=iYn_h-ho9ayvOahu3pqMEOX1w7StoCVjSUwXHS_TIw4kvW12S38ooN5SspwK2ITVTr2JJX_JyMMAapd5uTtpXRYuG5q9BbtjWLkJ17ai1nQ1&t=638344311807806761");background-repeat:no-repeat;background-position:right center;padding-right:14px; }
+        	#Menu1 a.level1 { text-decoration:none;border-style:none; }
+        	#Menu1 a.level2 { text-decoration:none;border-style:none; }
+        	#Menu1 a.static.selected { text-decoration:none;border-style:none; }
+        	/* ]]>
+        * /
+        
+    </style>
+</head>
+<body>
+    <form method="post" action="./home.aspx?year=2026-2027" id="Form1">
+        <div class="aspNetHidden">
+            <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value=""/>
+            <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value=""/>
+            <input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value=""/>
+            <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTI4MTkzNjQxMg9kFgJmD2QWBAIBD2QWBgIDDxYCHgdjb250ZW50BdUBSW4gb3VyIFJvdGFyeSBjbHViIEphbXNoZWRwdXIgU3RlZWwgQ2l0eSBKaGFya2hhbmQgeW91IHdpbGwgZmluZCBtZW1iZXJzIHZvbHVudGVlcmluZyBpbiBjb21tdW5pdGllcyB0byBzdXBwb3J0IGVkdWNhdGlvbiBhbmQgcHJvdmlkZSBjbGVhbiB3YXRlciwgY29tYmF0IGh1bmdlciwgaW1wcm92ZSBoZWFsdGggYW5kIHNhbml0YXRpb24sIGFuZCBlcmFkaWNhdGUgcG9saW8uZAIEDxYCHwAFiwFSb3RhcnkgY2x1YiBuZWFyIG1lLCBSb3RhcnkgQ2x1YiBKYW1zaGVkcHVyIFN0ZWVsIENpdHkgSmhhcmtoYW5kLCBSb3RhcnkgQ2x1YiBvZiBKYW1zaGVkcHVyIFN0ZWVsIENpdHkgSmhhcmtoYW5kLCBSb3RhcnkgQ2x1YiBJbiBKYW1zaGVkcHVyZAIGDxYCHglpbm5lcmh0bWwFPVJvdGFyeSBDbHViIG9mIEphbXNoZWRwdXIgU3RlZWwgQ2l0eSBKaGFya2hhbmQgLSBSb3RhcnkgSW5kaWFkAgMPZBYUAgEPFgIeBGhyZWZkFgICAQ8PFgIeBFRleHRlZGQCAw8WAh8CZBYCAgEPDxYCHwNlZGQCBQ8QDxYGHg1EYXRhVGV4dEZpZWxkBQhZZWFybGlzdB4ORGF0YVZhbHVlRmllbGQFCFllYXJsaXN0HgtfIURhdGFCb3VuZGdkEBUJCTIwMTgtMjAxOQkyMDE5LTIwMjAJMjAyMC0yMDIxCTIwMjEtMjAyMgkyMDIyLTIwMjMJMjAyMy0yMDI0CTIwMjQtMjAyNQkyMDI1LTIwMjYJMjAyNi0yMDI3FQkJMjAxOC0yMDE5CTIwMTktMjAyMAkyMDIwLTIwMjEJMjAyMS0yMDIyCTIwMjItMjAyMwkyMDIzLTIwMjQJMjAyNC0yMDI1CTIwMjUtMjAyNgkyMDI2LTIwMjcUKwMJZ2dnZ2dnZ2dnFgECCGQCBw9kFgICAQ8PFgIeCEltYWdlVXJsBWFodHRwczovL3JvdGFyeWluZGlhLm9yZy9Eb2N1bWVudHMvV2Vic2l0ZURhdGEvR3JvdXAyMTU2L0xPR08vVXBwZXJMb2dvMTEwNTIwMjIwMzA2NDYwMjg0NzkzUE0ucG5nZGQCCQ88KwANAgkQFgAWAGQMFCsACgUjMDowLDA6MSwwOjIsMDozLDA6NCwwOjUsMDo2LDA6NywwOjgUKwACFggeBVZhbHVlBQUxMTYxNR8DBRhQVUJMSUMgSU1BR0UgSU5JVElBVElWRVMeC05hdmlnYXRlVXJsBTNhbGxwdWJsaWNpbWFnZWluaXRpYXRpdmVzLmFzcHg/cHI9Q1AmeWVhcj0yMDI2LTIwMjceCFNlbGVjdGVkaGQUKwACFggfCAUDNTA1HwMFBEhPTUUfCQUYSG9tZS5hc3B4P3llYXI9MjAyNi0yMDI3HwpnZBQrAAIWCB8IBQM1MDYfAwUFQUJPVVQfCQUbQWJvdXRVcy5hc3B4P3llYXI9MjAyNi0yMDI3HwpoZBQrAAIWCB8IBQM1MDcfAwUJRElSRUNUT1JZHwkFHURpcmVjdG9yeS5hc3B4P3llYXI9MjAyNi0yMDI3HwpoZBQrAAIWCB8IBQM1MDgfAwUJRElSRUNUT1JTHwkFHURpcmVjdG9ycy5hc3B4P3llYXI9MjAyNi0yMDI3HwpoZBQrAAIWCB8IBQM1MDkfAwUIQ0FMRU5EQVIfCQUjQWxsU3BlY2lhbERhdGVzLmFzcHg/eWVhcj0yMDI2LTIwMjcfCmhkFCsAAhYIHwgFAzUxMB8DBQhQUk9KRUNUUx8JBSVBbGxQcm9qZWN0cy5hc3B4P3ByPUNQJnllYXI9MjAyNi0yMDI3HwpoZBQrAAIWCB8IBQM1MTEfAwUNQ0xVQiBTRVJWSUNFUx8JBSVBbGxQcm9qZWN0cy5hc3B4P3ByPUNFJnllYXI9MjAyNi0yMDI3HwpoZBQrAAIWCB8IBQM1MTIfAwUPUEFTVCBQUkVTSURFTlRTHwkFIlBhc3RQcmVzaWRlbnRzLmFzcHg/eWVhcj0yMDI2LTIwMjcfCmhkZAILD2QWBgIDDxYCHgtfIUl0ZW1Db3VudAIBFgJmD2QWAmYPFQE0aHR0cHM6Ly9yb3RhcnlpbmRpYS5vcmcvRG9jdW1lbnRzL2RlZmF1bHQtYmFubmVyLnBuZ2QCBQ8WAh4Fc3R5bGUFGmJhY2tncm91bmQtY29sb3I6ICMwYzNjN2M7FgQCBQ8WAh4HVmlzaWJsZWhkAgcPZBYCZg8PFgQfBwUbaW1hZ2VzL0NsdWJBZHZpcnRpc21lbnQucG5nHw1nZGQCCQ9kFgJmD2QWEgILDw8WAh8DBR0gRGF5IDpGcmlkYXkgLSBUaW1lIDoxOTozMDowMGRkAg0PDxYCHwMFbExlbW9uIFRyZWUgSG90ZWwgQ2VudGVyIFBvaW50IDIgSW5uZXIgQ2lyY2xlIFJkLCBDb250cmFjdG9ycyBBcmVhLEJpc3R1cHVyIEphbXNoZWRwdXIsODMxMDAxLEpoYXJraGFuZCBJbmRpYWRkAg8PZBYEAgEPDxYCHwMFbExlbW9uIFRyZWUgSG90ZWwgQ2VudGVyIFBvaW50IDIgSW5uZXIgQ2lyY2xlIFJkLCBDb250cmFjdG9ycyBBcmVhLEJpc3R1cHVyIEphbXNoZWRwdXIsODMxMDAxLEpoYXJraGFuZCBJbmRpYWRkAgMPDxYCHwMFHSBEYXkgOkZyaWRheSAtIFRpbWUgOjE5OjMwOjAwZGQCEQ9kFgYCAQ8WAh4Dc3JjBWpodHRwczovL3JvdGFyeWluZGlhLm9yZy9Eb2N1bWVudHMvV2Vic2l0ZURhdGEvSW50ZXJuYXRpb25hbF9QcmVzaWRlbnQvUFJFU0lERU5UMjQxMDIwMjUwNzE4MjU1NTM1MDg5UE0ucG5nZAIDD2QWAmYPDxYCHwMFGE9sYXlpbmthIEhha2VlbSBCYWJhbG9sYWRkAgUPDxYCHwMFJ1ByZXNpZGVudCwgUm90YXJ5IEludGVybmF0aW9uYWwgMjAyNi0yN2RkAhMPFgIfDWhkAhUPZBYGAgEPFgIfDgVmaHR0cHM6Ly9yb3RhcnlpbmRpYS5vcmcvRG9jdW1lbnRzL2RpcmVjdG9yeS9XaGF0c0FwcF9JbWFnZV8yMDI0LTAzLTAzX2F0XzE4LjM1LjQwMDQwMzIwMjQxMDM0MDhBTS5qcGVnZAIDD2QWAmYPDxYCHwMFCkFudSBOYXJhbmdkZAIFDw8WAh8DZWRkAhcPFgIfDWhkAhkPFgIfDWhkAh0PFgIfDWhkAg0PZBYCAgEPDxYCHwcFbGh0dHBzOi8vcm90YXJ5aW5kaWEub3JnL0RvY3VtZW50cy9XZWJzaXRlRGF0YS9Hcm91cDIxNTYvTE9HTy9Mb3dlckNsdWJfTG9nb19maW5hbDIzMDEyMDIxMDIwMTIwOTgzNjQ4MlBNLnBuZ2RkAg8PFgIfDWcWAgIBDw8WAh8JBShodHRwczovL3d3dy5mYWNlYm9vay5jb20vcmNqc3JzdGVlbGNpdHkvZGQCEQ8WAh8NZxYCAgEPDxYCHwkFKGh0dHBzOi8vdHdpdHRlci5jb20vUm90YXJ5c3RlZWxjaXQxP3M9MDlkZAIVDxYCHw1nFgICAQ8PFgIfCQVBaHR0cHM6Ly9pbnN0YWdyYW0uY29tL2phbXNoZWRwdXJzdGVlbGNpdHkzMjUwP2lnc2hpZD1vdGZmNnZ1Zm1qamJkZBgBBQtjdGwwMCRNZW51MQ8PZAUDNTA1ZEIAADpN8FQLvXAr92yECuYAs2nuagM9tymbtBqvgarg"/>
+        </div>
+
+        <script type="text/javascript">
+        //<![CDATA[
+        var theForm = document.forms['Form1'];
+        if (!theForm) {
+            theForm = document.Form1;
+        }
+        function __doPostBack(eventTarget, eventArgument) {
+            if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+                theForm.__EVENTTARGET.value = eventTarget;
+                theForm.__EVENTARGUMENT.value = eventArgument;
+                theForm.submit();
+            }
+        }
+        //]]>
+        </script>
+
+        <script src="/WebResource.axd?d=jwe1SZ94JQyEn7aOVAtUC4sFPjY7ZUxgYXuSEhxRruFhkJUNpWJQcAeWltLFhSPtYWE9ojO8LLfs3Lcvlr2syfWIQ5KUK4of7PrPhNWH9WQ1&amp;t=638344311807806761" type="text/javascript"></script>
+
+        <script src="/ScriptResource.axd?d=CPlqnpzUHoUyNGPcYigq8MNjySD2NZU80HX9R2ZciJYKy1NWhoUpC9sgRdaqSwxLF5xBSvdEchnUbEjldW8OGs446xJwbr0J-uXUzzfOH9ItXA3h4bMB8BUe48-2oVAL1p3Eul4gFXH0QPQxqrbqow2&amp;t=ffffffff94b2176b" type="text/javascript"></script>
+        <script src="/ScriptResource.axd?d=USrILAmIkDvPrtU1ql3P9Ri3N9gmpJR84b5m27biHA8_j-uCdHRq8krVKZZUa45bv7AS7isizAsBaKh8L_8EDpXQzNmFMMtZK_-5fUprwBoEZXDkJtp1IbB2TB66YaRXwuna6uY_rSC83EkNIJNp8kT-sc6oFAua3EnHEs2bzzE1&amp;t=3f9a842d" type="text/javascript"></script>
+        <script src="/ScriptResource.axd?d=9s6HU70pkntq-yl-EnkySLxvH_n5oZtu7j8uN74kM1G7Ap07wv-iOpKC2UyV1ienka_sXO4sXrFkz0Tp9tgw1DVeBn_JlSVHnsoly4vzA-1XiEEQFEsuWKgjD8WbY6NPM5FGllCkvnm76POQZituBlktZYxEriDbnEIhsapdJa46k-HsJYHrxiWz51ieZ1Rf0&amp;t=3f9a842d" type="text/javascript"></script>
+        <div class="aspNetHidden">
+
+            <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="8D0E13E6"/>
+            <input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdABXHFFqZD9IPmthhqyVS5j2vQJqKZufnybYz5zqIxa98qDFbrwF0zMaF/X/vxe4OJPQBwgYOglJgbSx0HARKeOZC+1K6MFzYifir3fyv9ISasP1frsLiIlA7k4mZ4N+VciY/a3RceehCb3f+seff8HPeeAQfYSFO52ghsrImVGFvm5f5dJQosu+c4GJFfn2XR/DLbMq7g2GRr/Hg2rq+BKMHWmtDiJq5QIuXltmLVYIufhbjNVwlyx1o07SpSBR9XgDtbk6W19elWXNV7Zbzl1pmSZolCi5cdIH8vl9mO/dtEnIbxOCmrWvSTTKH5yFuzAdfpH6cMGwl6Xsv/+FQ523Z+KHigzDUKuSDBlX/kW5WQtgW480L7BeciBf3oRqnWOYW1Ddnf58JwhsfDJdf7rGchhn75ZxaeXwyrGh3VSSL6o7BNzfdbufOCeTqmY1H1rT5rpqd4qP00AQdwj4GTm9SptOEIdwNvLEG7Ce9z8lSQQ=="/>
+        </div>
+        <div class="preloader">
+            <div class="loader rubix-cube">
+                <div class="layer layer-1"></div>
+                <div class="layer layer-2"></div>
+                <div class="layer layer-3 color-1"></div>
+                <div class="layer layer-4"></div>
+                <div class="layer layer-5"></div>
+                <div class="layer layer-6"></div>
+                <div class="layer layer-7"></div>
+                <div class="layer layer-8"></div>
+            </div>
+        </div>
+        <header id="header-part" class="header-four">
+            <div class="top-bar">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-3 col-lg-5 col-md-5 top-bg-orange">
+                            <div class="download-app">
+                                <div class="downld-text">Contact:</div>
+                                <a id="Sendmail">
+                                    <i class="fal fa-envelope"></i>
+                                    <span>
+                                        <span id="lblMailID"></span>
+                                    </span>
+                                </a>
+                                <a id="Call">
+                                    <i class="fal fa-phone"></i>
+                                    <span>
+                                        +91
+                                                                            
+                                        <span id="lblContactNumber"></span>
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-9 col-lg-7 col-md-7 top-form-inputs text-end">
+                            <div class="top-dropdown">
+                                <select name="ctl00$ddl_dropdownlist" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$ddl_dropdownlist\&#39;,\&#39;\&#39;)&#39;, 0)" id="ddl_dropdownlist" class="form-control form-select">
+                                    <option value="2018-2019">2018-2019</option>
+                                    <option value="2019-2020">2019-2020</option>
+                                    <option value="2020-2021">2020-2021</option>
+                                    <option value="2021-2022">2021-2022</option>
+                                    <option value="2022-2023">2022-2023</option>
+                                    <option value="2023-2024">2023-2024</option>
+                                    <option value="2024-2025">2024-2025</option>
+                                    <option value="2025-2026">2025-2026</option>
+                                    <option selected="selected" value="2026-2027">2026-2027</option>
+
+                                </select>
+                                <a href="https://www.rotaryindia.org/Home.aspx" target="_blank" class="btn btn-sm btn-default">
+                                    Login 
+                                    <i class="fal fa-sign-in fa-lg"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="top-bar-two">
+                <div class="container">
+                    <div class="top-bar-two-inner">
+                        <div class="col-lg-5">
+                            <div id="div_Upperlogo">
+                                <a class="logo" href="Home.aspx">
+                                    <img id="img_upperlogo" src="https://rotaryindia.org/Documents/WebsiteData/Group2156/LOGO/UpperLogo110520220306460284793PM.png" alt="club-logo"/>
+                                </a>
+                                <label for="toggleMenu" class="menu-bar fal fa-bars fa-2x">
+                                    <input type="checkbox" id="toggleMenu"/>
+                                </label>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="top-boxes">
+                                <div class="top-box">
+                                    <div style="width: 285px">Download the RI Zones 4, 5, 6 & 7 Mobile App</div>
+                                </div>
+                                <a href="https://apps.apple.com/in/app/rotary-india/id682238809" target="_blank" class="top-box">
+                                    <i class="fab fa-apple"></i>
+                                    <span>AppStore
+                                                                        </span>
+                                </a>
+                                <a href="https://play.google.com/store/apps/details?id=com.SampleApp.row" target="_blank" class="top-box">
+                                    <i class="fab fa-google-play"></i>
+                                    <span>Google Play
+                                                                        </span>
+                                </a>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="main-nav">
+                <div class="container">
+                    <nav>
+                        <a href="#Menu1_SkipLink">
+                            <img alt="Skip Navigation Links" src="/WebResource.axd?d=zVaEVdMh0QJPr4PEnyS0og2EbBr5uxqn55zZCOr21_G4aJlpVCtUFDKiJQsfBf_aC03hYFEx8AW3lt3VKyaCY5EyWyRg6ZMk3r7YHaX-FGM1&amp;t=638344311807806761" width="0" height="0" style="border-width:0px;"/>
+                        </a>
+                        <div id="Menu1" style="float: right;">
+                            <ul class="level1">
+                                <li>
+                                    <a class="level1 main_menu" href="allpublicimageinitiatives.aspx?pr=CP&amp;year=2026-2027">PUBLIC IMAGE INITIATIVES</a>
+                                </li>
+                                <li>
+                                    <a class="level1 main_menu selected" href="Home.aspx?year=2026-2027">HOME</a>
+                                </li>
+                                <li>
+                                    <a class="level1 main_menu" href="AboutUs.aspx?year=2026-2027">ABOUT</a>
+                                </li>
+                                <li>
+                                    <a class="level1 main_menu" href="Directory.aspx?year=2026-2027">DIRECTORY</a>
+                                </li>
+                                <li>
+                                    <a class="level1 main_menu" href="Directors.aspx?year=2026-2027">DIRECTORS</a>
+                                </li>
+                                <li>
+                                    <a class="level1 main_menu" href="AllSpecialDates.aspx?year=2026-2027">CALENDAR</a>
+                                </li>
+                                <li>
+                                    <a class="level1 main_menu" href="AllProjects.aspx?pr=CP&amp;year=2026-2027">PROJECTS</a>
+                                </li>
+                                <li>
+                                    <a class="level1 main_menu" href="AllProjects.aspx?pr=CE&amp;year=2026-2027">CLUB SERVICES</a>
+                                </li>
+                                <li>
+                                    <a class="level1 main_menu" href="PastPresidents.aspx?year=2026-2027">PAST PRESIDENTS</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <a id="Menu1_SkipLink"></a>
+                    </nav>
+                </div>
+            </div>
+        </header>
+
+        <script type="text/javascript">
+        //<![CDATA[
+        Sys.WebForms.PageRequestManager._initialize('ctl00$MainContent$ScriptManager1', 'Form1', ['tctl00$MainContent$UpdatePanel3', 'MainContent_UpdatePanel3'], ['ctl00$MainContent$lnkb_view', 'MainContent_lnkb_view', 'ctl00$MainContent$lnk_UPCOMINGEVENTS', 'MainContent_lnk_UPCOMINGEVENTS', 'ctl00$MainContent$lnk_CALENDAR', 'MainContent_lnk_CALENDAR', 'ctl00$MainContent$lnk_NEWSLETTERS', 'MainContent_lnk_NEWSLETTERS', 'ctl00$MainContent$lnk_International_presidentName', 'MainContent_lnk_International_presidentName', 'ctl00$MainContent$lnk_International_presidentName_Know_More', 'MainContent_lnk_International_presidentName_Know_More', 'ctl00$MainContent$lnk_International_DGName', 'MainContent_lnk_International_DGName', 'ctl00$MainContent$lnk_International_DGName_Know_More', 'MainContent_lnk_International_DGName_Know_More'], [], 90, 'ctl00');
+        //]]>
+        </script>
+
+        <section class="banner-section">
+            <div class="container">
+                <div class="row mt-3">
+                    <div class="col-md-8">
+                        <div class="main-slider slider-active">
+                            <div id="owl-demo" class="owl-carousel owl-theme">
+
+                                <div class="slide-item">
+                                    <img src='https://rotaryindia.org/Documents/default-banner.png' alt="Banner"/>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 align-items-stretch">
+                        <div id="MainContent_avd" class="card" style="background-color: #0c3c7c;">
+                            <div class="advt-slider">
+                                <input type="hidden" name="ctl00$MainContent$hdn_IsuploadPDF" id="MainContent_hdn_IsuploadPDF"/>
+                                <input type="hidden" name="ctl00$MainContent$hdn_Description" id="MainContent_hdn_Description"/>
+                                <div id="owl-advt" class="owl-carousel owl-theme">
+                                </div>
+                            </div>
+                            <a id="MainContent_hpr1" class="aspNetDisabled" target="_blank">
+                                <img id="MainContent_img_advertisement" class="adimg" src="images/ClubAdvirtisment.png" alt="advertisement" style="width:100%;"/>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <div id="MainContent_UpdateProgress2" style="display:none;">
+
+            <div class="mydiv">
+                <div class="currently-loading">
+                                    &nbsp;
+                                </div>
+            </div>
+
+        </div>
+        <div id="MainContent_UpdatePanel3">
+
+            <div id="MainContent_div_link" class="my-5 text-center">
+                <div class="item button-pulse">
+                    <div class="button__wrapper">
+                        <div class="pulsing"></div>
+
+                        <a id="MainContent_lnkb_view" class="text-dark fs-4" href="javascript:__doPostBack(&#39;ctl00$MainContent$lnkb_view&#39;,&#39;&#39;)">
+                            Click here to view 
+                            <strong>our Projects</strong>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <section class="events-section clearfix club-modules">
+                <div class="container">
+                    <div class="row d-flex">
+                        <div class="col-md-12">
+                            <div class="clearfix">
+                                <div class="event-pipes">
+
+                                    <a id="MainContent_lnk_UPCOMINGEVENTS" href="javascript:__doPostBack(&#39;ctl00$MainContent$lnk_UPCOMINGEVENTS&#39;,&#39;&#39;)">
+                                        <i class="fal fa-users"></i>
+                                        <span>
+                                            UPCOMING EVENTS
+                                            <span class="strong"></span>
+                                        </span>
+                                    </a>
+
+                                    <a id="MainContent_lnk_CALENDAR" href="javascript:__doPostBack(&#39;ctl00$MainContent$lnk_CALENDAR&#39;,&#39;&#39;)">
+                                        <i class="fal fa-calendar-alt"></i>
+                                        <span>
+                                            CALENDAR
+                                            <span class="strong"></span>
+                                        </span>
+                                    </a>
+
+                                    <a id="MainContent_lnk_NEWSLETTERS" href="javascript:__doPostBack(&#39;ctl00$MainContent$lnk_NEWSLETTERS&#39;,&#39;&#39;)">
+                                        <i class="fal fa-mail-bulk"></i>
+                                        <span>
+                                            NEWSLETTERS
+                                            <span class="strong"></span>
+                                        </span>
+                                    </a>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <div class="club-meeting py-3 bg-white">
+                <h2>
+                    <span>WHERE AND WHEN </span>
+                    DO WE MEET
+                </h2>
+
+                <marquee behavior="scroll" direction="left" scrollamount="8">
+                    <div id="MainContent_divDateTime" class="row">
+                        <div class="col-lg-8 col-md-7 col-xs-12">
+                            <div class="text-icon">
+                                <i class="fal fa-map-marker-alt"></i>
+                                <p>
+                                    <span id="MainContent_lblVenue">Lemon Tree Hotel Center Point 2 Inner Circle Rd, Contractors Area,Bistupur Jamshedpur,831001,Jharkhand India</span>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-5 col-xs-12">
+                            <div class="text-icon">
+                                <i class="fal fa-clock"></i>
+                                <p class="meeting-day-time">
+                                    <span id="MainContent_lblMeetingDatetime"> Day :Friday - Time :19:30:00</span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </marquee>
+            </div>
+            <section id="teachers-page" class="club-members">
+                <div class="container">
+                    <div class="row row-cols-1 row-cols-xl-2 mt-3">
+                        <div class="col">
+                            <div class="member-text">
+                                <h2 class="text-center">
+                                    ROTARY
+                                    <span> DIGNITARIES</span>
+                                </h2>
+                            </div>
+                            <div class="row row-cols-1 row-cols-md-2 mt-3">
+                                <div class="col">
+                                    <div class="card-holder">
+                                        <div id="MainContent_div_yesInterPresident" class="card text-center">
+                                            <div class="leader-img">
+                                                <img src="https://rotaryindia.org/Documents/WebsiteData/International_President/PRESIDENT241020250718255535089PM.png" id="MainContent_img_international_president" alt="president"/>
+                                            </div>
+                                            <div class="title fs-5">
+
+                                                <a id="MainContent_lnk_International_presidentName" href="javascript:__doPostBack(&#39;ctl00$MainContent$lnk_International_presidentName&#39;,&#39;&#39;)">
+                                                    <span id="MainContent_lbl_International_presidentName">Olayinka Hakeem Babalola</span>
+                                                </a>
+                                            </div>
+                                            <div class="member-designation text-muted">
+                                                <span id="MainContent_lbl_International_presidentDesignation">President, Rotary International 2026-27</span>
+                                            </div>
+                                            <p>
+                                                <span id="MainContent_lbl_International_presidentDesc"></span>
+                                            </p>
+                                            <div class="member-profile-footer">
+
+                                                <a id="MainContent_lnk_International_presidentName_Know_More" class="member-know-more btn btn-primary" href="javascript:__doPostBack(&#39;ctl00$MainContent$lnk_International_presidentName_Know_More&#39;,&#39;&#39;)">
+                                                                                                   Know More
+                                                                                                </a>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="card-holder">
+                                        <div id="MainContent_div_yesDG" class="card text-center">
+                                            <div class="leader-img">
+                                                <img src="https://rotaryindia.org/Documents/directory/WhatsApp_Image_2024-03-03_at_18.35.4004032024103408AM.jpeg" id="MainContent_img_international_DG" class="full-width wp-post-image" alt="district-governor"/>
+                                            </div>
+                                            <div class="title fs-5">
+
+                                                <a id="MainContent_lnk_International_DGName" href="javascript:__doPostBack(&#39;ctl00$MainContent$lnk_International_DGName&#39;,&#39;&#39;)">
+                                                    <span id="MainContent_lbl_International_DGName" class="dg1">Anu Narang</span>
+                                                </a>
+                                            </div>
+                                            <div class="member-designation text-muted">
+                                                <span id="MainContent_lbl_International_DGDesignation"></span>
+                                            </div>
+                                            <p>
+                                                <span id="MainContent_lbl_International_DGDesc"></span>
+                                            </p>
+                                            <div class="member-profile-footer">
+
+                                                <a id="MainContent_lnk_International_DGName_Know_More" class="member-know-more btn btn-primary" href="javascript:__doPostBack(&#39;ctl00$MainContent$lnk_International_DGName_Know_More&#39;,&#39;&#39;)">
+                                                                                                   Know More
+                                                                                                </a>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="member-text">
+                                <h2 class="text-center">
+                                    CLUB
+                                    <span> LEADERS</span>
+                                </h2>
+                            </div>
+                            <div class="row row-cols-1 row-cols-md-2 mt-3">
+                                <div class="col">
+                                    <div class="card-holder">
+
+                                        <div id="MainContent_div_NoClubPresident" class="card text-center">
+                                            <div class="leader-img">
+                                                <img src="img/noimg.png" id="MainContent_img2" alt="club-president"/>
+                                            </div>
+                                            <div class="title fs-5">
+                                                <a href="javascript:;">&nbsp;</a>
+                                            </div>
+                                            <div class="member-designation text-muted">
+                                                                                            &nbsp;
+                                                                                        </div>
+                                            <p>
+                                                                                            &nbsp;
+                                                                                        </p>
+                                            <div class="member-profile-footer">
+                                                <a href="javascript:;">&nbsp;</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="card-holder">
+
+                                        <div id="MainContent_div_noSecretary" class="card text-center">
+                                            <div class="leader-img">
+                                                <img src="img/noimg.png" id="MainContent_img3" alt="club-secretary"/>
+                                            </div>
+                                            <div class="title fs-5">
+                                                <a href="javascript:;">&nbsp;</a>
+                                            </div>
+                                            <div class="member-designation text-muted">
+                                                                                            &nbsp;
+                                                                                        </div>
+                                            <p>
+                                                                                            &nbsp;
+                                                                                        </p>
+                                            <div class="member-profile-footer">
+                                                <a href="javascript:;">&nbsp;</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+        </div>
+
+        <footer id="footer-part">
+            <div class="main-footer">
+                <div class="container">
+                    <div class="row justify-content-between">
+                        <div class="col-md-3 col-sm-6">
+                            <div id="div_lowerlogo" class="footer-logo">
+                                <img id="img_lowerlogo" class="w-100 valid" src="https://rotaryindia.org/Documents/WebsiteData/Group2156/LOGO/LowerClub_Logo_final230120210201209836482PM.png" alt="club-footer-logo"/>
+                            </div>
+                            <ul class="top-box list-inline social-icons clearfix">
+                                <li id="li_Facebook">
+                                    <a id="hp_facebook" class="fab fa-facebook-f" href="https://www.facebook.com/rcjsrsteelcity/" target="_blank"></a>
+                                </li>
+                                <li id="li_Twitter">
+                                    <a id="hp_twitter" class="fab fa-twitter" href="https://twitter.com/Rotarysteelcit1?s=09" target="_blank"></a>
+                                </li>
+
+                                <li id="li_instagram">
+                                    <a id="hp_instagram" class="fab fa-instagram" href="https://instagram.com/jamshedpursteelcity3250?igshid=otff6vufmjjb" target="_blank"></a>
+                                </li>
+
+                            </ul>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="quick-links clearfix">
+                                <h3>Quick Links</h3>
+                                <ul class="nav-links-vertical">
+                                    <li>
+                                        <i class="fal fa-chevron-right"></i>
+                                        <a href="https://rotary.org/" target="_blank">Rotary.org</a>
+                                    </li>
+                                    <li>
+                                        <i class="fal fa-chevron-right"></i>
+                                        <a href="https://rotaryindia.org/" target="_blank">Rotary India</a>
+                                    </li>
+                                    <li>
+                                        <i class="fal fa-chevron-right"></i>
+                                        <a href="https://www.rotary.org/en/our-programs/more-fellowships" target="_blank">Rotary Fellowship</a>
+                                    </li>
+                                    <li>
+                                        <i class="fal fa-chevron-right"></i>
+                                        <a href="https://my.rotary.org/en/member-center/rotary-global-rewards/offers?#/offers/featured" target="_blank">Global Rewards</a>
+                                    </li>
+                                    <li>
+                                        <i class="fal fa-chevron-right"></i>
+                                        <a href="https://blog.rotary.org/">Rotary Blog</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-copyright">
+                <div class="container">
+
+                                        Powered by Roster On Wheels  &copy; 
+                    <span class="getYear"></span>
+                    | All Rights Reserved
+                                    
+                </div>
+            </div>
+        </footer>
+
+        <script type='text/javascript'>
+        new Sys.WebForms.Menu({
+            element: 'Menu1',
+            disappearAfter: 500,
+            orientation: 'horizontal',
+            tabIndex: 0,
+            disabled: false
+        });
+        </script>
+        <script type="text/javascript">
+        //<![CDATA[
+        Sys.Application.add_init(function() {
+            $create(Sys.UI._UpdateProgress, {
+                "associatedUpdatePanelId": "MainContent_UpdatePanel3",
+                "displayAfter": 500,
+                "dynamicLayout": true
+            }, null, null, $get("MainContent_UpdateProgress2"));
+        });
+        //]]>
+        </script>
+    </form>
+    <script src="Home2CssAndStyles/js/jquery.min.js"></script>
+    <script src="Home2CssAndStyles/js/bootstrap.min.js"></script>
+    <script src="Home2CssAndStyles/js/uiscript.js?v=2.8"></script>
+
+    <script type="text/javascript" src="js/jquery.magnific-popup.min.js"></script>
+    <script type="text/javascript" src="js/waypoints.min.js"></script>
+    <script type="text/javascript" src="js/jquery.counterup.min.js"></script>
+    <script type="text/javascript" src="js/jquery.nice-select.min.js"></script>
+    <script type="text/javascript" src="js/jquery.nice-number.min.js"></script>
+
+    <script src="HomeCssAndStyles/js/owl.carousel.min.js"></script>
+
+    <script type="text/javascript">
+    $(document).ready(function() {
+        $("#owl-demo").owlCarousel({
+            items: 1,
+            autoplay: true,
+            loop: true,
+            autoplayHoverPause: true,
+            paginationSpeed: 1000,
+            autoHeight: true,
+            transitionStyle: "fade",
+            lazyLoad: true,
+            dots: true,
+            animateOut: 'slideOutDown',
+            animateOut: 'fadeOut',
+            animateIn: 'slideInDown',
+
+        });
+
+        $("#owl-advt").owlCarousel({
+            items: 1,
+            loop: true,
+            autoplay: true,
+            nav: false,
+            dots: true
+
+        });
+        var getYear = new Date();
+        var year = getYear.getFullYear();
+        $('.getYear').html(year)
+    });
+    </script>
+</body>
+</html>
