@@ -40,18 +40,20 @@
         top: 0;
     }
 
-    climate-clock {
-      position: static;
-      display: block;
-      width: fit-content;
-      height: fit-content;
-      margin: 24px 0;
-      
-    }
-        
-    html, body {
-      overflow: auto;
-    }
+    /* Force widget to behave like normal content */
+climate-clock {
+  position: static !important;
+  display: block !important;
+  width: fit-content !important;
+  height: auto !important;
+  margin: 24px 0;
+}
+
+/* Undo layout hijacking */
+html, body {
+  overflow: auto !important;
+}
+
     </style>
     
     <script src="https://climateclock.world/widget-v2.js" async></script><climate-clock />
