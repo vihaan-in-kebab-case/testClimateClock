@@ -26,7 +26,6 @@
     <link rel="icon" type="image/png" sizes="96x96" href="images/favicon/favicon-96x96.png"/>
     <link rel="icon" type="image/png" sizes="16x16" href="images/favicon/favicon-16x16.png"/>
     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v6.0"></script>
-    <script src="https://climateclock.world/widget-v2.js" async></script><climate-clock />
         
     <style type="text/css">
     .currently-loading {
@@ -44,8 +43,8 @@
     climate-clock {
         position: static !important;
         display: block !important;
+        width: fit-content;
         height: auto !important;
-        margin: 24px 0;
     }
 
     html, body {
@@ -77,6 +76,7 @@
         * /
         
     </style>
+    <script src="https://climateclock.world/widget-v2.js" async></script><climate-clock />
 </head>
 <body>
     <form method="post" action="./Home.aspx" id="Form1">
