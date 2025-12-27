@@ -41,8 +41,9 @@
     }
 
     climate-clock {
-        transform: scale(0.85);
-        transform-origin: top right;
+        display: block;
+        width: 100%;
+        max-width: 100%;
     }
     </style>
 
@@ -197,6 +198,14 @@
                     </div>
                 </div>
             </div>
+            
+            <div class="container my-2">
+                <climate-clock
+                    data-position="relative"
+                    data-mode="light">
+                </climate-clock>
+            </div>
+            
             <div class="main-nav">
                 <div class="container">
                     <nav>
@@ -238,13 +247,6 @@
                     </nav>
                 </div>
             </div>
-            
-            <div class="container my-2">
-                <div style="max-width: 420px; margin-left: auto;">
-                    <climate-clock />
-                </div>
-            </div>
-
         </header>
 
         <script type="text/javascript">
